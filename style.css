@@ -7,9 +7,19 @@
   margin: 10px;
   text-align: center;
   padding-top: 10px;
+  box-shadow: 0px 0px 10px;
 }
 
 button {
+  color: darkblue;
   width: 100px;
   height: 30px;
+  box-shadow: 0px 0px 10px;
+}
+button:hover {
+  background-color: deeppink;
+}
+
+h1 {
+  text-align: center;
 }
